@@ -54,3 +54,20 @@
 生化危机|299|12
 Apex|198|7
 PUBG|198|3
+
+#代码
+##### 在文档中插入代码片段
+```c
+#include <stdio.h>
+
+int main()
+{
+	printf("hello world!");
+}
+```
+
+# 超链接
+[Bilibili](https://www.bilibili.com "点击访问B站")
+
+#插入图片
+![图片](https://img.mianfeiwendang.com/pic/65133e4129b6446aa22c9f9f/1-810-jpg_6-1080-0-0-1080.jpg)
